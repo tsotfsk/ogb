@@ -7,7 +7,7 @@
 ```
 ogb>=1.3.0
 torch>=1.7.0
-pytorch-lightning>=1.2.0
+pytorch-lightning==1.2.0
 torch-geometric==master (pip install git+https://github.com/rusty1s/pytorch_geometric.git)
 ```
 
